@@ -45,36 +45,7 @@ architectures, and real-world data workflows.
 
 <br/>
 
-## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Project Name 1](https://github.com/StriderNick/replace-me)**
-
-Backend API service built with Django & PostgreSQL — structured
-data pipelines and RESTful endpoints for [describe use case].
-
-`Python` `Django` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Name 2](https://github.com/StriderNick/replace-me)**
-
-Data processing pipeline using Pandas for [describe what it does],
-built with scalability and clean architecture in mind.
-
-`Python` `Pandas` `Data Engineering`
-
-</td>
-</tr>
-</table>
-
-<sub>✏️ Replace with your real project names, links, and descriptions.</sub>
-
-<br/>
 
 ## Stats
 
